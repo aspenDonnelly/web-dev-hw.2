@@ -1,6 +1,6 @@
 ## This is my readme for project 1
 
-The browser I typically use is **firefox**
+The browser I typically use is firefox
 ---
 
 Browsers work like a gateway and a translator for webpages. It interprets the components of a webpage and displays its content. There are several components of a browser but overall they work in harmony to make sure the webpage is viewed as intended.
