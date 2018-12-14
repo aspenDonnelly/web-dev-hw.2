@@ -14,4 +14,4 @@ I went to the year 1997. The entire webpage was the size of my screen and it was
 ---
 
 I had a lot of problems this work cycle. The link between my github desktop and github.com broke. I could not figure out how to get them to communicate on my computer so I moved to a library computer which has worked after a long battle. Also, no matter how hard I tried I could not view my image on my website. I do not see a problem in the coding.
-![Image of my workspace](./project-1/images/screenshot.png)
+![Image of my workspace](./images/screenshot.png)
