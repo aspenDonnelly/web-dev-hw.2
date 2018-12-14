@@ -1,4 +1,4 @@
-# This is my readme for project 1
+## This is my readme for project 1
 
 The browser I typically use is **firefox**
 ---
