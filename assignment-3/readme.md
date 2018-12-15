@@ -1,6 +1,5 @@
 ## this is my readme for assignment 3
 
----
 A page can only have one <b>main</b> head and body elements.
 The head holds information about the site such as author, style, and sizing of page but the only required element in the head is the title of the page itself.
 
